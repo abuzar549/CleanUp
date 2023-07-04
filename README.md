@@ -16,4 +16,15 @@ This would help the employer to better administer and distribute tasks among the
 - Flutter
 - Dart 
 - Rest Api
-- Postman 
+- Postman
+
+## Screenshots
+<img src="https://raw.githubusercontent.com/abuzar549/CleanUp/main/images/IMG_7991.JPG" width="216" height="468">
+<img src="https://raw.githubusercontent.com/abuzar549/CleanUp/main/images/IMG_7994.JPG" width="216" height="468">
+<img src="https://raw.githubusercontent.com/abuzar549/CleanUp/main/images/IMG_7990.JPG" width="216" height="468">
+<img src="https://raw.githubusercontent.com/abuzar549/CleanUp/main/images/IMG_7993.JPG" width="216" height="468">
+<img src="https://raw.githubusercontent.com/abuzar549/CleanUp/main/images/IMG_7992.JPG" width="216" height="468">
+
+## Working Video
+
+[Link to Drive]([https://www.google.com](https://drive.google.com/file/d/1hFZl-ApJj0ezGjd8f3CC2Imgzx-id7-g/view?usp=drive_link)https://drive.google.com/file/d/1hFZl-ApJj0ezGjd8f3CC2Imgzx-id7-g/view?usp=drive_link)
