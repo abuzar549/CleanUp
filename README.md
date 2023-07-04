@@ -16,4 +16,3 @@ This would help the employer to better administer and distribute tasks among the
 - Flutter 
 - Dart 
 - Rest Api
-- Postman
