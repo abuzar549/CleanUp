@@ -14,6 +14,17 @@ class HomeScreen extends StatefulWidget {
 }
 
 class _HomeScreenState extends State<HomeScreen> {
+  List arr = [
+    "Sweeping",
+    "Brooming",
+    "Waste disposal",
+    "Sweeping",
+    "Sweeping",
+    "Brooming",
+    "Waste disposal",
+    "Sweeping" "Waste disposal",
+    "Sweeping"
+  ];
   bool status = false;
   bool task = false;
   List<Apidata> postList = [];
@@ -85,7 +96,7 @@ class _HomeScreenState extends State<HomeScreen> {
                   future: getPostApi(),
                   builder: (context, AsyncSnapshot<List<Apidata>> snapshot) {
                     return ListView.builder(
-                        itemCount: 10,
+                        itemCount: 6,
                         itemBuilder: (context, index) {
                           return Padding(
                             padding: const EdgeInsets.symmetric(vertical: 10),
@@ -108,8 +119,7 @@ class _HomeScreenState extends State<HomeScreen> {
                                         child: SingleChildScrollView(
                                           scrollDirection: Axis.horizontal,
                                           child: Text(
-                                            snapshot.data![index].title
-                                                .toString(),
+                                            arr[index],
                                             style: TextStyle(
                                                 fontSize: 30,
                                                 fontWeight: FontWeight.bold),
