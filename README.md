@@ -27,4 +27,4 @@ This would help the employer to better administer and distribute tasks among the
 
 ## Working Video
 
-[Link to Drive]([https://www.google.com](https://drive.google.com/file/d/1hFZl-ApJj0ezGjd8f3CC2Imgzx-id7-g/view?usp=drive_link)https://drive.google.com/file/d/1hFZl-ApJj0ezGjd8f3CC2Imgzx-id7-g/view?usp=drive_link)
+[Link to Drive](https://drive.google.com/file/d/1hFZl-ApJj0ezGjd8f3CC2Imgzx-id7-g/view?usp=drive_link)
